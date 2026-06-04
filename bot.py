@@ -49,12 +49,12 @@ BLACKLIST_KEYWORDS = [
     "us residents only",
     "must reside in us",
     "must be located in the us",
-    "must be based in",
-    "senior",
-    "director",
-    "agency",
-    "full stack",
-    "fullstack",
+    "must be based in australia",
+    "uk residents only",
+    "internship",
+    "volunteer",
+    "europe only",
+    "must reside in uk",
 ]
 
 # ══════════════════════════════════════════════════════════════════════════════
